@@ -10,18 +10,18 @@ Live-Demo: https://jonafra239.github.io/
 ---
 
 ## Technische Rahmenbedingungen
-- **Programmiersprachen:** HTML5, CSS3  
+- **Programmiersprachen:** HTML, CSS  
 - **Keine Verwendung von JavaScript**
 - **Keine externen Bibliotheken oder Frameworks**
 - Fokus auf:
-  - semantisches HTML
+  - HTML
   - strukturierten CSS-Code
   - übersichtliches und nutzerfreundliches Design
 
 ---
 
 ## Inhalte & Funktionen
-- Klare Seitenstruktur mit HTML5-Elementen
+- Klare Seitenstruktur mit HTML-Elementen
 - Gestaltung und Layout ausschließlich über CSS
 - Responsive Grundstruktur
 - Saubere Trennung von Inhalt (HTML) und Design (CSS)
