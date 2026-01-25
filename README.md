@@ -5,7 +5,7 @@ Dieses Projekt ist eine statische Portfolio-Webseite, die im schulischen Kontext
 
 Die Webseite dient dazu, grundlegende Inhalte strukturiert darzustellen und legt besonderen Wert auf sauberen Code, klare Struktur und ein verständliches Layout.
 
-➡️ Live-Demo: https://jonafra239.github.io/
+Live-Demo: https://jonafra239.github.io/
 
 ---
 
