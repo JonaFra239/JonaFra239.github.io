@@ -1,7 +1,7 @@
 # Portfolio-Webseite (HTML & CSS)
 
 ## Projektbeschreibung
-Dieses Projekt ist eine statische Portfolio-Webseite, die im schulischen Kontext erstellt wurde. Ziel war es, eine übersichtliche und ansprechende Webseite ausschließlich mit **HTML und CSS** zu entwickeln – **ohne den Einsatz von JavaScript oder externen Frameworks**.
+Dieses Projekt ist eine statische Portfolio-Webseite, die im schulischen Kontext erstellt wurde. Ziel war es, eine übersichtliche und ansprechende Webseite ausschließlich mit **HTML und CSS** zu entwickeln – **ohne den Einsatz von JavaScript**.
 
 Die Webseite dient dazu, grundlegende Inhalte strukturiert darzustellen und legt besonderen Wert auf sauberen Code, klare Struktur und ein verständliches Layout.
 
